@@ -59,7 +59,7 @@ This Weather App delivers live weather insights for cities worldwide using the O
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/yourusername/weather-app.git](https://github.com/sumit-bera-0805/weather-app.git
 
 Open Project Folder
 cd weather-app
@@ -94,10 +94,10 @@ Dark & Light Theme
 Sumit Bera
 
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/sumit-bera-0805
 
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/sumit-bera-715966282/
 
 
 
